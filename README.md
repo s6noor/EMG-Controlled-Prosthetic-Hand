@@ -9,4 +9,4 @@ The actual movement of the hand (my contribution to the project) is broken down 
     2) Actuator Response
     
 # Summary of Files
-Demo.ino is the prototype testing file and EMGControlledProstheticHand.pdg contains figures and images summarizing the connections and parts used in the design
+Demo.ino is the prototype testing file and EMGControlledProstheticHand.pdf contains figures and images summarizing the connections and parts used in the design
