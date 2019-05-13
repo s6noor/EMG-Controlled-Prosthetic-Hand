@@ -1,5 +1,5 @@
 # EMG-Controlled-Prosthetic-Hand
-A 4th Year Capstone project for an EMG Controlled Prosthetic Hand. This hand was designed for kids with Upper limb loss with amputation across the wrist. Enclosed is the prototype software, design documents and the 3D model
+A project for an EMG Controlled Prosthetic Hand. This hand was designed for kids with Upper limb loss with amputation across the wrist. Enclosed is the prototype software, design documents and the 3D model
 
 # Design
 The design has two main components: 3D Hand Model and Mechanical Movement
