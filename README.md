@@ -10,3 +10,8 @@ The actual movement of the hand (my contribution to the project) is broken down 
     
 # Summary of Files
 Demo.ino is the prototype testing file and EMGControlledProstheticHand.pdf contains figures and images summarizing the connections and parts used in the design
+
+# Current Work
+Currently im working on automating the calibration process. During this project, I mainly did the all the calibration manually, would be interesting to see how I can store the data on a cloud platform and analyze it. 
+
+Date "Current Work" was updated: 03/06/2019
